@@ -46,26 +46,3 @@ Blockchain integrity check ensures no certificate has been altered.
 ✅ Data validation – ensures certificate authenticity
 
 ▶️ Running the Project
-# Clone the repository
-git clone https://github.com/YourUsername/Student-Certificate-Blockchain.git
-
-# Navigate into the project folder
-cd Student-Certificate-Blockchain
-
-# Run the blockchain program
-python certificate_blockchain.py
-
-📌 Example Demo
-Enter University Name: ABC University  
-
-1. Add Certificate  
-2. Show Student Certificates  
-3. Exit  
-
-Student Name: Alice  
-Course Name: B.Sc Computer Science  
-Grade: A  
-✅ Certificate added successfully!  
-
-🎓 Certificates of Alice:  
-{'University': 'ABC University', 'Student': 'Alice', 'Course': 'B.Sc Computer Science', 'Grade': 'A'}
