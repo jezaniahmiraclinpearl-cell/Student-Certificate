@@ -44,5 +44,3 @@ Blockchain integrity check ensures no certificate has been altered.
 📜 Traceability – complete student record in chronological order
 
 ✅ Data validation – ensures certificate authenticity
-
-▶️ Running the Project
